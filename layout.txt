@@ -1,0 +1,38 @@
+Channel 1
+  _KeyOn_
+ OperatorMode xxxxx   First operator feedback xxxxxxx
+ Frequency  xxxxxx     Octave xxx 
+ Operator 00
+ _AmplitudeModulation_   _Vibrato_     _Sustain_   _ASDR Scaling_
+   Volume     xxxxxx     VolumeScaling  xxxxxx
+   Harmonics  xxxxxx   Waveform   xxxxxx
+  Attack Rate   xxx     Decay Rate   xxx  
+  Sustain Level xxx     Release Rate xxx  
+ Operator 03
+
+
+Channel 2
+
+
+Channel 3
+
+
+Channel 4
+
+Channel 5
+
+Channel 6
+
+Channel 7
+
+Channel 8
+
+Channel 9
+
+
+Global:
+ Amplitude Modulation xxxxxxx
+ Vibrato Depth  xxxxxxx
+ 
+ _Rhythm control_
+ _BassDrum_ _SnareDrum_ _TomTom_ _Cymbal_ _HiHat_
